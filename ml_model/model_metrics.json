@@ -1,0 +1,53 @@
+{
+  "Diabetes": {
+    "Accuracy": 0.776,
+    "ROC_AUC": 0.7144,
+    "Top_Feature_Importances": {
+      "age": 0.1427,
+      "bmi": 0.227,
+      "exercise_mins": 0.17,
+      "sleep_hrs": 0.0662,
+      "systolic_bp": 0.0766,
+      "diastolic_bp": 0.0615,
+      "resting_hr": 0.0745,
+      "smoking": 0.0105,
+      "alcohol": 0.017,
+      "diet_quality": 0.1246,
+      "stress_level": 0.0295
+    }
+  },
+  "Heart Disease": {
+    "Accuracy": 0.778,
+    "ROC_AUC": 0.793,
+    "Top_Feature_Importances": {
+      "age": 0.3075,
+      "bmi": 0.0812,
+      "exercise_mins": 0.1403,
+      "sleep_hrs": 0.072,
+      "systolic_bp": 0.1176,
+      "diastolic_bp": 0.0543,
+      "resting_hr": 0.0645,
+      "smoking": 0.0859,
+      "alcohol": 0.0142,
+      "diet_quality": 0.0242,
+      "stress_level": 0.0381
+    }
+  },
+  "Hypertension": {
+    "Accuracy": 0.788,
+    "ROC_AUC": 0.7198,
+    "Top_Feature_Importances": {
+      "age": 0.0949,
+      "bmi": 0.0703,
+      "exercise_mins": 0.1309,
+      "sleep_hrs": 0.0664,
+      "systolic_bp": 0.3088,
+      "diastolic_bp": 0.139,
+      "resting_hr": 0.0625,
+      "smoking": 0.0552,
+      "alcohol": 0.0097,
+      "diet_quality": 0.0304,
+      "stress_level": 0.0321
+    }
+  }
+}

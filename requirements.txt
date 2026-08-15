@@ -1,3 +1,2 @@
-scikit-learn>=1.2.0
-pandas>=1.5.0
-numpy>=1.23.0
+# Vercel Python Serverless uses built-in standard library (json, math, http.server)
+# Heavy ML training packages (scikit-learn, pandas, numpy) are in ml_model/requirements.txt for local model training
